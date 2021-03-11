@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "Automated release management for maven projects",
   "main": "index.js",
-  "author": "acouvreur <acouvreur@supralog.com>",
+  "author": "acouvreur <alexiscouvreur.pro@gmail.com>",
   "license": "MIT",
-  "private": false,
   "repository": {
     "type": "git",
     "url": "https://github.com/acouvreur/maven-semantic-release.git"
